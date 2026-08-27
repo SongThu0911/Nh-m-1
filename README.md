@@ -1,3 +1,3 @@
 # Nhom1
-Nhóm có 6 người con gái
+Tìm hiểu về lập trình hướng đối tượng
 printf("Nhom co 6 nguoi")
