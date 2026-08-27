@@ -1,0 +1,8 @@
+Lập trình hướng đối tượng – Object-Oriented Programming (OOP) là phương pháp lập trình tổ chức chương trình xoay quanh đối tượng (Object) và lớp (Class), thay vì chỉ tập trung vào các hàm và quy trình xử lý.
+
+* Class (lớp): Là khuôn mẫu để tạo ra các đối tượng.
+* Object (đối tượng): Là một thể hiện cụ thể của lớp.
+* Đối tượng thường gồm:
+    * Thuộc tính (Attribute): dữ liệu mô tả đối tượng.
+    * Phương thức (Method): các hành động mà đối tượng có thể thực hiện.
+File README là tài liệu hướng dẫn và giới thiệu tổng quan về một dự án, giúp người khác hiểu dự án là gì, có chức năng gì và cách sử dụng nó.
