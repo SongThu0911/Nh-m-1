@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <string.h>
+typedef struct {
+    char hoTen[50];
+    int tuoi;
+    float diem;
+} SinhVien;
+void nhap(SinhVien *sv) {
+    printf("Nhap ho ten: ");
+    scanf(" %[^\n]", sv->hoTen);
+    printf("Nhap tuoi: ");
+    scanf("%d", &sv->tuoi);
+    printf("Nhap diem: ");
+    scanf("%f", &sv->diem);
+}
+void hienThiSinhVien(SinhVien sv) {
+    printf("\n Thong tin sinh vien\n");
+    printf("Ho ten: %s\n", sv.hoTen);
+    printf("Tuoi: %d\n", sv.tuoi);
+    printf("Diem: %.2f\n", sv.diem);
+}
+int main() {
+    SinhVien sv1;
+
+    nhapSinhVien(&sv1);
+    hienThiSinhVien(sv1);
+
+    return 0;
+}
