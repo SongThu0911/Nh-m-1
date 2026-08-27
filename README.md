@@ -1,7 +1,7 @@
 # Nhom1
 Tìm hiểu về lập trình hướng đối tượng
 printf("Nhom co 6 nguoi")
-# CÁC KHÁI NIỆM CƠ BẢN TRONG LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG (OOP)
+# CÁC KHÁI NIỆM CƠ BẢN TRONG LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG
 
 * **Đối tượng:** Là một thực thể trong hệ thống bao gồm hai thành phần cốt lõi: các thuộc tính (dữ liệu, trạng thái mô tả đối tượng) và các phương thức (hành vi, chức năng xử lý mà đối tượng đó thực hiện).
 * **Lớp đối tượng:** Là bản thiết kế hoặc khuôn mẫu chung quy định cấu trúc thuộc tính và phương thức, dùng để khởi tạo ra các đối tượng cụ thể cùng loại.
